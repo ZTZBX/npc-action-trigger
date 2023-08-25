@@ -4,8 +4,6 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "npc-action-trigger.Client", "Client\npc-action-trigger.Client.csproj", "{2C5AFC8F-1713-4E51-A10B-6096EA2E8F40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "npc-action-trigger.Server", "Server\npc-action-trigger.Server.csproj", "{34833E73-F45F-4A51-A3B4-563A156EAED6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
